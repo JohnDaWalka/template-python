@@ -11,6 +11,6 @@ python = "^3.11"
 
 cookiecutter = "^2.6.0"
 
-black = "^23.1"
+black = "^24.3"
 sniffer = "*"
 MacFSEvents = { version = "*", platform = "darwin" }
